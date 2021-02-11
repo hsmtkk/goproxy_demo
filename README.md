@@ -1,2 +1,3 @@
-# goproxy_demo
-goproxy software demo
+tinyproxy demo
+
+<http://tinyproxy.github.io/>
